@@ -1,0 +1,1 @@
+python ADMM_RGB.py --mu1 1e-9 --mu2 1e-7 --mu3 1e-7 --tau 1e-10 --iters 5000 --data_path "../../Desktop/datasets/LenslessLearning/ground_truth_lensed/im65.npy" --save_path "experiments/im65.pkl"
